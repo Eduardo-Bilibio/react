@@ -5,7 +5,7 @@ function Home() {
         <div>
             <h1>Home</h1>
             <Contador />
-            <div>teste</div>
+            <div>Clique e veja a magica</div>
         </div>
 
     );
