@@ -7,8 +7,8 @@ function Home() {
             <h1>Homee</h1>
             <Contador />
             <div>Clique e veja a magica</div>
-            <Link href="/sobre">
-                <a>Próxima pagina</a>
+            <Link href='/sobre'>
+                oi
             </Link>
             
         </div>

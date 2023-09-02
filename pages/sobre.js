@@ -6,7 +6,7 @@ function sobre() {
         <div>
             <h1>sobre</h1>
             <Link href='/'>
-                <a>Próxima pagina</a>
+                oi
             </Link>
         </div>
 
