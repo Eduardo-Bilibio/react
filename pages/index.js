@@ -8,7 +8,7 @@ function Home() {
             <Contador />
             <div>Clique e veja a magica</div>
             <Link href="/sobre">
-                proxima
+                <a>Próxima pagina</a>
             </Link>
             
         </div>
