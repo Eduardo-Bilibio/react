@@ -5,12 +5,10 @@ function sobre() {
     return (
         <div>
             <h1>sobre</h1>
-            <Link href='/'>
-                <a>Próxima pagina</a>
+            <Link href="/">
+                proxima
             </Link>
-            
         </div>
-
     );
 }
 
